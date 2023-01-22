@@ -16,7 +16,7 @@ This is a *ongoing* experiment to identify the different audience segments that 
     - - The Seller: Someone who makes it a goal to sell Second Level Handshake domain names on top of a Handshake TLD they own. 
          (ex.) http://b.ez (Namecheap, Porkbun, Encirca)
 
-    - - The Builder: Someone who wants own a specific Handshake name that they could use to build something publicly available on the internet. 
+    - - The Builder: Someone who wants to own a specific Handshake name that they could use to build something publicly available on the internet. 
          (in most cases to build brand equity within the ecosystem for its larger adoption, but in some cases the intention is to profit, or host personal content)
 
     - - The Dabbler: Someone who is introduced to handshake in one way or another, and decided to "dabble". 
