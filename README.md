@@ -2,7 +2,7 @@
 This is a *ongoing* experiment to identify the different audience segments that exist within the Handshake Blockchain Ecosystem.
 
 
-```Handshake Cohorts:
+# Handshake Cohorts:
 
 - Name Speculation:
 
