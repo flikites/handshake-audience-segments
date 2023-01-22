@@ -33,4 +33,3 @@ This is a *ongoing* experiment to identify the different audience segments that 
          
           - - - Community Participants
           
-          ```
